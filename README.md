@@ -11,6 +11,9 @@ Use python and opencv Haar Cascade face detector and LBPH face recognizer to bui
 * pickle
 * pillow
 
+## Results
+
+The model is able to identify my faces in real time (via webcam).
 
 ## Sources
 
