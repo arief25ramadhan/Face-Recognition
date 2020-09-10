@@ -1,5 +1,17 @@
 # Face Recognition and Identification using Python and OpenCV
 
+## Description 
+Use python and opencv Haar Cascade face detector and LBPH face recognizer to build a face recognition system. Create a folder containing photos of your face, if you want to test this facial recognition system using your webcam (see wheter it recognizes you!).
+
+
+## Libraries
+* os
+* opencv
+* numpy
+* pickle
+* pillow
+
+
 ## Sources
 
 This project is built by following the tutorial in this Youtube video:
