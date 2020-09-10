@@ -15,6 +15,8 @@ Use python and opencv Haar Cascade face detector and LBPH face recognizer to bui
 
 The model is able to identify my faces in real time (via webcam).
 
+<img src="https://github.com/arief25ramadhan/Face-Recognition/blob/master/image_demo.PNG" width="400">
+
 ## Sources
 
 This project is built by following the tutorial in this Youtube video:
