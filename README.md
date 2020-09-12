@@ -19,10 +19,15 @@ The model is able to identify my face in real time (via webcam).
 
 ## Sources
 
-This project is built by following the tutorial in this Youtube video:
+This project is built by following CodingEntreprenur's tutorial in this Youtube video:
 
 https://www.youtube.com/watch?v=PmZ29Vta7Vc&list=PLIxHGHeOyd0zy51wDjY0wjVpAjo3E93ir&index=29
+
+CodingEntrepreneur's Youtube page:
+
+https://www.youtube.com/c/CodingEntrepreneurs
 
 The base file of the project code can be found in this repository:
 
 https://github.com/codingforentrepreneurs/OpenCV-Python-Series/tree/master/src
+
